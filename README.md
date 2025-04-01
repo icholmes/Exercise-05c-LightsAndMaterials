@@ -2,10 +2,12 @@
 
 
 ## Implementation
+Experimented with textures and materials.
 
 ## References
 
 ## Future Development
+Enemies, nav meshes, etc.
 
 ## Created by
-Nathan Mishler
+Izzy Holmes
